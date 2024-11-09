@@ -7,12 +7,7 @@ pragma solidity ^0.8.0;
  * @dev Interface of the ERC-20 standard as defined in the ERC.
  */
 interface IERC20 {
-    /**
-     * @dev Emitted when `value` tokens are moved from one account (`from`) to
-     * another (`to`).
-     *
-     * Note that `value` may be zero.
-     */
+    
     event Transfer(address indexed from, address indexed to, uint256 value);
 
     /**
