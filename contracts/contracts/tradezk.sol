@@ -13,7 +13,7 @@ interface IPUSHCommInterface {
 
 contract Tradezk {
     address public owner;
-    IERC20 public usdcToken; // Assuming USDC is an ERC-20 token
+    IERC20 public usdcToken; 
     IPUSHCommInterface public push;
 
     struct Order {
