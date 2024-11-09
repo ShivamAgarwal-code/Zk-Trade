@@ -7,7 +7,7 @@ import {
   useWeb3ModalAccount,
   useWeb3Modal,
 } from "@web3modal/ethers/react";
-import { ArchiveRestore, ArrowLeft, Currency } from "lucide-react";
+import { ArchiveRestore, ArrowLeft, ArrowRight, Currency } from "lucide-react";
 import {
   Card,
   CardContent,
