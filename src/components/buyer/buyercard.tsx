@@ -25,7 +25,7 @@ export default function BuyerCard({unit, qty, amount}) {
           <div className="flex-shrink-0 text-zinc-400 font-normal mt-0.5 ">
             /Unit
           </div>
-          {/* Add more items as needed */}
+          
         </div>
       </CardHeader>
       <CardContent className="p-3 pt-0">
