@@ -9,7 +9,7 @@ import {
 
 import { AnonAadhaarProvider } from "anon-aadhaar-react";
 import { SnackbarProvider, useSnackbar } from "notistack";
-// import { PushAPI, CONSTANTS } from "@pushprotocol/restapi";
+
 import { ethers, BrowserProvider, Contract, formatUnits } from "ethers";
 
 const app_id = "1111528717802619247954060243396702739433835724800";
